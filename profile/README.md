@@ -1,8 +1,6 @@
 ### Hi there, Welcome to the CNSS-Project 👋
 
-[<img src="./img/cnss_logo.png">](http://cnss-project.github.io)
-
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+[![Foo](./img/cnss_logo.png)](http://cnss-project.github.io)
 
 
 ## About
